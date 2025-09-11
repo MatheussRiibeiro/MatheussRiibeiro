@@ -31,6 +31,8 @@
 
 ###
 
+###
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
@@ -54,6 +56,14 @@
 ###
 
 <img align="left" height="200" src="https://media4.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3anQxMm1nNTNqajl0cWJybnUyMnozbGdxZzZyNXd1NGJpc245YW9qdCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/13UZisxBxkjPwI/200.webp"  />
+
+###
+
+<img align="left" height="200" src="https://media2.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3anhqOTF6bXlsYmk3bG9xNHhod25qczR5bHRwcnlkZG02aWZ4bTV5YyZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/AOSwwqVjNZlDO/200.webp"  />
+
+###
+
+<img align="right" height="193" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2Jnem1ram5xMm9sZGZmNHplcjBoOXl2NHRjOWQ2aWxyeGMycmh4dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eCqFYAVjjDksg/giphy.gif"  />
 
 ###
 
