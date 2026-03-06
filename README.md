@@ -15,7 +15,7 @@
 
 ###
 
-<p align="left">Sou apaixonado por segurança da informação, especialmente defesa de sistemas e redes (Blue Team).  <br>Atualmente estudo e pratico cibersegurança em laboratórios e desafios no Hack The Box, além de explorar automação e monitoramento de sistemas.</p>
+<p align="left">Sou interessado na área de dados e análise, com foco em transformar dados em informações úteis para tomada de decisão. Atualmente estudo e pratico ferramentas como Python, SQL e Pandas, realizando projetos de análise e manipulação de dados, além de explorar conceitos de engenharia de dados, automação e pipelines de dados.</p>
 
 ###
 
