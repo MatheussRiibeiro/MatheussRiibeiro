@@ -11,7 +11,7 @@ Uno a bagagem prática de infraestrutura corporativa, gestão de acessos e siste
 ### Tecnologias e Ferramentas
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=py,postgres,sqlite,docker,gcp,git,github,linux" height="40" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=py,docker,gcp,git,github,linux" height="40" alt="Tech Stack" />
 </div>
 
 <div align="left" style="margin-top: 10px;">
@@ -23,7 +23,7 @@ Uno a bagagem prática de infraestrutura corporativa, gestão de acessos e siste
 
 ---
 
-### 💼 Atuação Profissional
+### Atuação Profissional
 
 * **Auxiliar de TI — Afya**  
   Gestão centralizada de endpoints com Microsoft Intune, identidades corporativas no Microsoft Entra ID (Azure AD), políticas de segurança/MFA, suporte avançado a servidores e infraestrutura de redes.
