@@ -11,17 +11,26 @@ Uno a bagagem prática de infraestrutura corporativa, gestão de acessos e siste
 ### Tecnologias e Ferramentas
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=py,docker,gcp,git,github,linux" height="40" alt="Tech Stack" />
+  <!-- Ícones Base -->
+  <img src="https://skillicons.dev/icons?i=py,postgres,docker,gcp,git,github,linux,bash" height="40" alt="Tech Stack" />
 </div>
 
-<div align="left" style="margin-top: 10px;">
-  <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white" height="28" alt="Apache Airflow" />
-  <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" height="28" alt="dbt" />
-  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" height="28" alt="GCP" />
+<div align="left" style="margin-top: 12px;">
+  <!-- Orquestração, Transformação e Warehouses -->
+  <img src="https://img.shields.io/badge/Apache%20Airflow%202.8+-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white" height="28" alt="Apache Airflow" />
+  <img src="https://img.shields.io/badge/dbt--bigquery-FF694B?style=for-the-badge&logo=dbt&logoColor=white" height="28" alt="dbt" />
+  <img src="https://img.shields.io/badge/Google%20BigQuery-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" height="28" alt="BigQuery" />
   <img src="https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black" height="28" alt="DuckDB" />
 </div>
 
----
+<div align="left" style="margin-top: 6px;">
+  <!-- Armazenamento, Nuvem e Arquitetura -->
+  <img src="https://img.shields.io/badge/Storage-Cloudflare%20R2%20(S3)-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" height="28" alt="Cloudflare R2" />
+  <img src="https://img.shields.io/badge/Docker%20Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="28" alt="Docker Compose" />
+  <img src="https://img.shields.io/badge/Architecture-Medallion%20(Bronze%20|%20Silver%20|%20Gold)-F7DF1E?style=for-the-badge" height="28" alt="Medallion Architecture" />
+</div>
+
+--- 
 
 ### Atuação Profissional
 
@@ -36,7 +45,7 @@ Uno a bagagem prática de infraestrutura corporativa, gestão de acessos e siste
 
 🏦 **[Pipeline BCB](https://github.com/MatheussRiibeiro/pipeline_BCB)**  
 Pipeline automatizado para consumo, processamento e estruturação de dados econômicos/financeiros via APIs públicas do Banco Central do Brasil, aplicando validação, tratamento e persistência para análises.  
-*Stack: Python, Pandas, PostgreSQL, Docker, APIs REST*
+*Stack: Python, Pandas, PostgreSQL, dbt, Docker, airflow, APIs REST*
 
 ⚙️ **[Basic ETL Solutions](https://github.com/TrInfra/basic-etl-solutions)**  
 Arquitetura completa e modular de soluções ETL/ELT integrando orquestração automatizada de fluxos de dados, modelagem analítica e conteinerização em ambiente de engenharia de dados.  
