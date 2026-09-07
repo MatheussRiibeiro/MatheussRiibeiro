@@ -34,13 +34,13 @@ Uno a bagagem prática de infraestrutura corporativa, gestão de acessos e siste
 
 ### 📌 Projetos em Destaque
 
-📈 **[Basic ETL Solutions](https://github.com/MatheussRiibeiro)**  
-Arquitetura completa de ingestão e processamento de dados integrando orquestração automatizada com Airflow, dbt, DuckDB e MinIO em contêineres Docker.  
-*Stack: Python, Apache Airflow, dbt, DuckDB, MinIO, Docker*
+🏦 **[Pipeline BCB](https://github.com/MatheussRiibeiro/pipeline_BCB)**  
+Pipeline automatizado para consumo, processamento e estruturação de dados econômicos/financeiros via APIs públicas do Banco Central do Brasil, aplicando validação, tratamento e persistência para análises.  
+*Stack: Python, Pandas, PostgreSQL, Docker, APIs REST*
 
-📊 **[Amazon Reviews — Analytics Pipeline](https://github.com/MatheussRiibeiro)**  
-Pipeline analítico para limpeza, estruturação e modelagem dimensional de grande volume de dados de avaliações, persistido em PostgreSQL.  
-*Stack: Python, Pandas, dbt, PostgreSQL, Jupyter*
+⚙️ **[Basic ETL Solutions](https://github.com/TrInfra/basic-etl-solutions)**  
+Arquitetura completa e modular de soluções ETL/ELT integrando orquestração automatizada de fluxos de dados, modelagem analítica e conteinerização em ambiente de engenharia de dados.  
+*Stack: Python, Apache Airflow, dbt, DuckDB, MinIO, Docker*
 
 ---
 
