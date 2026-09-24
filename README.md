@@ -12,7 +12,7 @@ Uno a bagagem prática de infraestrutura corporativa, gestão de acessos e siste
 
 <div align="left">
   <!-- Ícones Base -->
-  <img src="https://skillicons.dev/icons?i=py,postgres,docker,gcp,git,github,linux,bash" height="40" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=py,postgres,docker,gcp,git,github,linux,bash,aws" height="40" alt="Tech Stack" />
 </div>
 
 <div align="left" style="margin-top: 12px;">
